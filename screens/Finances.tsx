@@ -105,7 +105,7 @@ export default function Finances({ navigation }: RootTabScreenProps<'Home'>) {
 
     );
 }
-
+//
 const styles = StyleSheet.create({
     personal_info: {
         justifyContent: "flex-start",
